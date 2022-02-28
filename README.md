@@ -1,4 +1,9 @@
-# custom_bnb
+# Fluttter Custom BottomNavigationBar
+
+
+https://user-images.githubusercontent.com/87581799/155933849-394edd60-d57e-4ac2-ad6a-09fe16f23ddc.mp4
+
+
 
 A new Flutter project.
 
